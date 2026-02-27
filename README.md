@@ -4,6 +4,10 @@ A simple AI-powered Trading News Feed mobile application built using React Nativ
 
 The app fetches and displays the latest stock/crypto headlines (currently using mock data) and includes an optional AI Summary feature.
 
+# Demo Video
+
+[watch Demo Video]: https://github.com/shivamkumarrai1/AI-Trading-News-App/blob/main/demo.mp4
+
 # Features
 
 # News Feed
