@@ -6,7 +6,7 @@ The app fetches and displays the latest stock/crypto headlines (currently using 
 
 # Demo Video
 
-[watch Demo Video]: https://github.com/shivamkumarrai1/AI-Trading-News-App/blob/main/demo.mp4
+[watch Demo Video] (https://github.com/shivamkumarrai1/AI-Trading-News-App/blob/main/demo.mp4)
 
 # Features
 
